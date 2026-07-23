@@ -8,8 +8,7 @@
 [![Portfolio site](https://img.shields.io/badge/Project%20page-GitHub%20Pages-46637f)](https://hope328.github.io/ipswich-ai-data-centre-gis/)
 
 ## Current output
-
-![Ipswich study area and infrastructure map](docs/assets/ipswich-study-area-map.jpg)
+[![Map 1 - Study Area and Infrastructure](assets/Map-1-Study-Area-and-Infrastructure.png)](maps/Map-1-Study-Area-and-Infrastructure.pdf)
 
 **Map 1 - Study Area and Infrastructure.** This map establishes the Ipswich study area and shows the spatial relationship between major transport, electricity and water infrastructure used in the preliminary site assessment.
 
