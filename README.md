@@ -5,10 +5,10 @@
 
 [![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-Spatial%20Analysis-2f6f67)](#spatial-method)
 [![Project status](https://img.shields.io/badge/Status-Map%201%20complete-d9b56d)](#current-progress)
-[![Portfolio site](https://img.shields.io/badge/Project%20page-GitHub%20Pages-46637f)](https://hope328.github.io/ipswich-ai-data-centre-gis/)
 
 ## Current output
-[![Map 1 - Study Area and Infrastructure](assets/Map-1-Study-Area-and-Infrastructure.png)](maps/Map-1-Study-Area-and-Infrastructure.pdf)
+
+<img src="docs/assets/Map-1-Study-Area-and-Infrastructure.png" alt="Map 1 - Ipswich Study Area and Infrastructure" width="100%">
 
 **Map 1 - Study Area and Infrastructure.** This map establishes the Ipswich study area and shows the spatial relationship between major transport, electricity and water infrastructure used in the preliminary site assessment.
 
@@ -79,7 +79,7 @@ The final weights and thresholds will be documented rather than hidden inside th
 ├── README.md
 ├── docs/
 │   └── assets/
-│       └── ipswich-study-area-map.jpg
+│       └── Map-1-Study-Area-and-Infrastructure.png
 └── methodology/
     ├── CRITERIA_AND_SCORING.md
     ├── DATA_SOURCES.md
