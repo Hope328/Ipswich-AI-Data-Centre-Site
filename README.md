@@ -9,7 +9,7 @@
 
 ## Current output
 
-[![Ipswich study area and infrastructure map](docs/assets/ipswich-study-area-map.png)](maps/Map-1-Study-Area-and-Infrastructure.pdf)
+[![Ipswich study area and infrastructure map](docs/assets/ipswich-study-area-map.jpg)](maps/Map-1-Study-Area-and-Infrastructure.pdf)
 
 **Map 1 - Study Area and Infrastructure.** This map establishes the Ipswich study area and shows the spatial relationship between major transport, electricity and water infrastructure used in the preliminary site assessment. Click the image to open the full-resolution PDF.
 
@@ -82,7 +82,7 @@ The final weights and thresholds will be documented rather than hidden inside th
 │   ├── index.html
 │   ├── styles.css
 │   └── assets/
-│       ├── ipswich-study-area-map.png
+│       ├── ipswich-study-area-map.jpg
 │       └── ipswich-study-area-map.pdf
 ├── maps/
 │   ├── README.md
