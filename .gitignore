@@ -1,0 +1,23 @@
+# ArcGIS project and local workspace files
+*.aprx
+*.ppkx
+*.gdb/
+*.sde
+*.lock
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating system / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large or confidential source data
+source_data/
+private/
+confidential/
