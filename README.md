@@ -8,9 +8,9 @@
 
 ## Current output
 
-<img src="docs/assets/Map-1-Study-Area-and-Infrastructure.png" alt="Map 1 - Ipswich Study Area and Infrastructure" width="100%">
+<a href="docs/assets/Map-1-Study-Area-and-Infrastructure.png"><img src="docs/assets/Map-1-Study-Area-and-Infrastructure.png" alt="Map 1 - Ipswich Study Area and Infrastructure" width="100%"></a>
 
-**Map 1 - Study Area and Infrastructure.** This map establishes the Ipswich study area and shows the spatial relationship between major transport, electricity and water infrastructure used in the preliminary site assessment.
+**Map 1 - Study Area and Infrastructure.** This map establishes the Ipswich study area and shows the spatial relationship between major transport, electricity and water infrastructure used in the preliminary site assessment. Click the map to open the full-size image.
 
 ## Project question
 
